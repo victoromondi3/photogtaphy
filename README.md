@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0fc45bc27b1f68f1e93e2fc0851f52bb51fa9790
 # Victor-omondi-website
 > Victor photography is a simple and visually appealing photography website created using HTML and CSS. the website showcases a collection of favorite photographs and provides a short biography explaining the purpose and inspiration behind the website.
 ## Technologies used
@@ -15,4 +20,4 @@ To run this project locally on your machine:
 ## Link to git hub
 https://github.com/victoromondi3/photogtaphy
 ## License
-This project is for educational purposes
+<
